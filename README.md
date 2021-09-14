@@ -1,4 +1,5 @@
 # rotarod_behaviour_analysis
+![alt text]https://github.com/ubcbraincircuits/rotarod_behaviour_analysis/blob/main/Mouseandfootsips.JPG
 1) MATLAB Analysis of rotarod behaviour, particularly paw movements, from deeplabcut (DLC) tracking  
 Scripts:  
 Rotarodpositions.m - Analyzes foot slips, paw height, SD of paw height, and more over time from DLC .csv files  
