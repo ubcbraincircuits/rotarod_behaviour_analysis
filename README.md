@@ -7,5 +7,6 @@ Rotarodpositions_individual.m - Same but used for an individual file rather than
   
 2) Photometry Analysis: Aligning rotarod paw data to fiber photometry GCAMP and RCAMP data  
 Scripts:  
-Footslips_Photometry_Averages.m - Aligns foot slip data from DLC files to photometry data (TDT files)  
+rotarod_Deeplabcut_photometry.m - Aligns foot slip data from CSV files to photometry data (TDT files)
+Footslips_Photometry_Averages.m - Averaging of previously analyzed photometry data from previous script
 Footslips_Photometry_Normalization.m - Normalizes baseline period of photometry data before foot slip occurs  
